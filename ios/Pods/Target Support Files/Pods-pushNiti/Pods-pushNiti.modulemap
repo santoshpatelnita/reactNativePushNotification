@@ -1,0 +1,6 @@
+module Pods_pushNiti {
+  umbrella header "Pods-pushNiti-umbrella.h"
+
+  export *
+  module * { export * }
+}

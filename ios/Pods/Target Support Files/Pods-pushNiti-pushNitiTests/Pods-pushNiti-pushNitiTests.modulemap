@@ -1,0 +1,6 @@
+module Pods_pushNiti_pushNitiTests {
+  umbrella header "Pods-pushNiti-pushNitiTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
